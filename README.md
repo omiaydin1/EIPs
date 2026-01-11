@@ -83,5 +83,8 @@ eipw --config ./config/eipw.toml <INPUT FILE / DIRECTORY>
    ```
 
 2. Preview your local Jekyll site in your web browser at `http://localhost:4000`.
+3. 
+
+Some EIPs contain highly technical rationale sections that may be difficult for newer contributors to follow. Introducing a brief high-level summary before the detailed rationale could make EIPs more accessible without reducing technical depth.
 
 More information on Jekyll and GitHub Pages [here](https://docs.github.com/en/enterprise/2.14/user/articles/setting-up-your-github-pages-site-locally-with-jekyll).
