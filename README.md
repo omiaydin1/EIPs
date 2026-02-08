@@ -1,4 +1,3 @@
-
 # Ethereum Improvement Proposals (EIPs)
 
 
